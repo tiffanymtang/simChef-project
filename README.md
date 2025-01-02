@@ -8,3 +8,5 @@ Other notes on reproducibility:
 - This simulation project is equipped with version control using `git`, a reproducible environment using `renv`, and unit testing using `testthat`.
 - To quickly reproduce the R environment including all necessary package dependencies, run `renv::restore()` in the project directory.
 - To run the unit tests, run `simChef::test_sim_dir()` in the project directory.
+
+For more information about `simChef`, please checkout the `simChef` [website](https://yu-group.github.io/simChef/) and [GitHub repository](https://github.com/Yu-Group/simChef).
